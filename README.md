@@ -12,5 +12,6 @@ un blog increible creado por [Marco Aurelio](https://github.com/marco18ovi "Marc
 * las personalidades multiples de Freddy
 * creado por el increible equipo de Marco
 * incluye ejemplos en windows, linux y mac
+* disponible para todas las edades
 
 y como un amable recordatorio este ^^**readme es un chiste**^^ diseñado para el ejemplo si llegas aca no te lo tomes en serio y ve a ver el curso
