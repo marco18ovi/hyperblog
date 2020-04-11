@@ -5,11 +5,12 @@ un blog increible creado por [Marco Aurelio](https://github.com/marco18ovi "Marc
 - niñita
 
 ### EN ESTE CURSO VEREMOS DE TODO
-todos los comandos de git
-el flujo de trabajo en github
-el verdadero amor por las buenas practicas
-trucos muy locos del profesor
-las personalidades multiples de Freddy
+* todos los comandos de git
+* el flujo de trabajo en github
+* el verdadero amor por las buenas practicas
+* trucos muy locos del profesor
+* las personalidades multiples de Freddy
+* creado por el increible equipo de Marco
 
 
 y como un amable recordatorio este ^^**readme es un chiste**^^ diseñado para el ejemplo si llegas aca no te lo tomes en serio y ve a ver el curso
